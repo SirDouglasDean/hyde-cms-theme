@@ -26,6 +26,3 @@ This theme is maintained by its author [Luiz de Prá](https://github.com/luizdep
 
 - Gleen McComb, for his great [article](https://glennmccomb.com/articles/how-to-build-custom-hugo-pagination/) about custom pagination.
 - All contributors, for every PR and Issue reported.
-
-=========
-GOTTA DO ALL DAT
